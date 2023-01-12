@@ -1,6 +1,6 @@
 import { ChainId, ThirdwebProvider } from "@thirdweb-dev/react";
 import Head from "next/head";
-import TweethyLogo from "../components/TweethyLogo";
+
 import { domainName } from "../const/yourDetails";
 import "../styles/globals.css";
 
@@ -18,7 +18,6 @@ function MyApp({ Component, pageProps }) {
       }}
     >
       <Head>
-        <TweethyLogo />
         <title>Tweethy</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
