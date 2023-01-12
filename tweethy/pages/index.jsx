@@ -10,9 +10,9 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.h1}>Restricted Access Page</h1>
+      <h1 className={styles.h1}>Coming Soon!</h1>
       <p className={styles.explain}>
-        Thanks for being a member of our NFT community!
+        This is where you soon will be able to tweeth together!
       </p>
 
       <button className={styles.mainButton} onClick={logout}>

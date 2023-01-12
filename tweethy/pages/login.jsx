@@ -31,7 +31,7 @@ export default function Login() {
         <ConnectWallet accentColor="#fefd0c" />
 
         <p>
-          For demo purposes, you can claim an NFT from our collection below:
+          For demo purposes, you can claim an NFT from <a href='https://testnets.opensea.io/collection/tweethy-mumbai' target="_blank">our collection</a> here on the Polygon-Mumbai Testnet.
         </p>
 
         <Web3Button
